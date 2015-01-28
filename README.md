@@ -120,6 +120,8 @@ Build a list of every conference that is similar to the one you're trying to org
 
 Here's a [crowdsourced list of conferences](https://docs.google.com/spreadsheet/ccc?key=0AjzoXvTKg56mdDdBLXhfbHFwNE1hSlNKZzBCR2hBNUE&usp=drive_web#gid=0) that might be helpful. 
 
+Also try to avoid holiday dates which might preclude certain demographics. Check national holidays as well as holidays for multiple religions.
+
 ## Format
 
 First, how many attendees do you expect?
